@@ -24,3 +24,5 @@
 - [Species List](https://github.com/ikeman32/NewRPG/blob/master/Species/Species%20List.md)
 
 - [New Species Guide Lines](https://github.com/ikeman32/NewRPG/blob/master/Species/New%20Species%20Guide%20Lines.md)
+
+- [Species Template](https://github.com/ikeman32/NewRPG/blob/master/Species/Species%20Template.md)
