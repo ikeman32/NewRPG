@@ -8,4 +8,28 @@ That's just a quick back story to give the game some futuristic appeal I haven't
 
 I also wanted a Science Fiction themed RPG instead of Fantasy to keep **Magic** out of the game, not that magic isn't cool it just that I felt that it doesn't fit into what I have in mind. But the other thing is that I wanted a game that was open sourced and could evolve though a community rather than a commercial enterprise.
 
+**Donations**
+
+This project is 100% open source so the amount of time that there is any active developement will depend upon many factors but if you so choose you may make a donation via Crypto Currency by going to the [Contributors](https://github.com/ikeman32/NewRPG/blob/master/Contributors.md) page and selected a contributor to donate to.
+
+**Contributing**
+
+To contribte to this project please clone this repository make your contributions then submit a pull request. Don't forget to add your name or handle and any other information you want to share including crypto wallets.
+
+**Standards**
+For now the only standard is the required use of Mark Down for development other standards such as styles and such will probably be set once(if) the community grows and the game gets to a point where it can be played/released. In General try to keep things simple unless you have mad skills that I don't posses and can really make things pop.
+
+**To Do**:
+At this point there are too many things to list here but here are a few:
+
+- Come up with a real name
+- Create a number of species
+- Create and add Weapons
+- Create and add Armor
+- Create and add Equipment
+- Develop rules and guideliens
+- etc.
+
+As you can see there is pretty much everything that needs to be done so if this RPG idea sounds interesting and you would like to contribute please by all means lend a helping hand.
+
 [Contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md)
