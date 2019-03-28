@@ -1,2 +1,3 @@
-Contents
+# Contents
 
+[Money](NewRPG/CoreRules/Money.md)
