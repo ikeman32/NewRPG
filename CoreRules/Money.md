@@ -177,3 +177,5 @@ EC (Encrypted Chips) can be used to transfer IC’s from one EC to the other, ca
 **Interstellar Banking Consortium**
 
 The IBC, is the central bank of the interstellar community and is primarily responsible for the vast Interstellar Banking Network Communications. All banks are locally owned and operated but maintain a membership with the IBC and pay annual dues which goes to maintain the IBNC (Interstellar Banking Network Communications) as well as taking a small one percent cut from every merchant transaction.
+
+[back to contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md)
