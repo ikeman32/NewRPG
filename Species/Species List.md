@@ -1,0 +1,10 @@
+# Species List
+
+- Human
+- Tritosian
+- Galarian
+- Seculoid
+- Arcadian
+- Avalonian
+
+[back to contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md)
