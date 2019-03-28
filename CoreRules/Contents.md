@@ -13,3 +13,9 @@
 [Perception](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Perception.md)
 
 [Dexterity](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Dexterity.md)
+
+**Weapons**
+
+[Weapon Creation](https://github.com/ikeman32/NewRPG/blob/master/Weapons/Weapon%20Creation.md)
+
+[Weapon List]()
