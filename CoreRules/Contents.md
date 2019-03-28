@@ -4,6 +4,10 @@
 
 **Attributes**
 
+[Strength](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Strength.md)
+
+
+
 [Intelligence](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Intelligence.md)
 
 [Perception](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Perception.md)
