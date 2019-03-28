@@ -97,4 +97,4 @@ This is the species planet of origin where there species first appeared, for hum
 This refers to the number of establish planetary colonies or military conquests by the species and does not include their home world.
 
 
-[back to contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md) | [Species List](https://github.com/ikeman32/NewRPG/blob/master/Species/Species%20List.md)
+[back to contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md) | [Species List](https://github.com/ikeman32/NewRPG/blob/master/Species/Species%20List.md) | [New Species Guide Lines](https://github.com/ikeman32/NewRPG/blob/master/Species/New%20Species%20Guide%20Lines.md)
