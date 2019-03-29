@@ -72,6 +72,8 @@ This specifically is a cultural atribute and does not depict or ascribe to a par
 
 - Atheist: Having no deity or religion.
 
+- Other: A general classifiction for religion type not yet specifically classified.
+
 - Variable: This is for societies that may have more than one type of religion in their culture like humans do, they have Monthesic, Polythesic, Atheist, etc.
 
 **Government Type**:
@@ -95,6 +97,40 @@ This is the species planet of origin where there species first appeared, for hum
 **Colonies**:
 
 This refers to the number of establish planetary colonies or military conquests by the species and does not include their home world.
+
+**History**:
+
+Here you will give a brief history of the species.
+
+**Physical Characteristics**:
+
+Here you will describe what the species looks like: how tall, skin tone, hair and eye color, how strong they are, etc.
+
+**Biology**: 
+
+Describe how they reproduce.
+
+**Origin**:
+
+Describe how they believe or how they actually came into being. This can be a scientific explanation or a religious origin story.
+
+**Culture**:
+
+Describe social additudes, gender additudes, religions if any, politics, etc.
+
+**Special or Unique Abilities**:
+
+This is where you will desribe traits, skills or unique ablities found in the species. For instance [Tritosians](https://github.com/ikeman32/NewRPG/blob/master/Species/Tritosian.md) have a regnerative ability to heal their wounds rapidly or even re-grow lost limbs as well as an extremely high pain tolerance.
+
+- list:
+
+And describe said abilities.
+
+**Strengths and Weaknesses**:
+
+- list:
+
+And describe.
 
 
 [back to contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md) | [Species List](https://github.com/ikeman32/NewRPG/blob/master/Species/Species%20List.md) | [New Species Guide Lines](https://github.com/ikeman32/NewRPG/blob/master/Species/New%20Species%20Guide%20Lines.md)

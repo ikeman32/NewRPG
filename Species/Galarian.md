@@ -22,5 +22,20 @@
 
 **Colonies**:
 
+**History**:
+
+**Physical Characteristics**:
+
+**Biology**: 
+
+**Origin**:
+
+**Culture**:
+
+**Special or Unique Abilities**:
+
+**Strengths and Weaknesses**:
+
+
 
 [back to contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md) | [Species List](https://github.com/ikeman32/NewRPG/blob/master/Species/Species%20List.md)
