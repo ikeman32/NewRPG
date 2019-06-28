@@ -58,3 +58,5 @@ To hit = 11
 Enemy Def = 10
 
 To hit = 10 - 1 or at least 9 or better to hit.
+
+[back to contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md)
