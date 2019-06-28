@@ -25,10 +25,10 @@ Critical damage affects a caracter's overall health and may impair their physica
 
 Stun damagge is temporary damage that may or may not affect the character's overall halth and may also affect their physical attributes. A character can take more stun damage than critical damge from 2 to 5 times the overal halth score before death occurs.
 
-**Stun Damage maximums**
+**Stun Damage maximums** Total Stun Damage = Health *  Mod rounded to nearest whole number.
 
 |**Stam**   |**Mod**   |
-|-----------|----------|
+|:---------:|:--------:|
 |  1-2      |  2.0     |
 |  3        |  2.3     |
 |  4        |  2.6     |
@@ -40,3 +40,21 @@ Stun damagge is temporary damage that may or may not affect the character's over
 |  10       |  4.3     |
 |  11       |  4.6     |
 |  12       |  5.0     |
+
+**Combat**
+
+If the  to hit is lower than the defence then the to hit is equal to the defence score of the target or better with 3 D 6. 
+IF the to hit is higher than the defence score of the targt then the to hit is equal to the defence minus the difference.
+
+**Example 1**:
+
+To hit = 11
+Enemy Def = 13
+Must roll 13 or better to hit.
+
+**Example 2**:
+
+To hit = 11
+Enemy Def = 10
+
+To hit = 10 - 1 or at least 9 or better to hit.
