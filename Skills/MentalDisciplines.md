@@ -44,3 +44,24 @@ Experts can regenerate in mere seconds except for severed limbs which requires a
 
 This is the catchall of the disciplines, anything not specifically covered in any of the other disciplines is covered here, it is the least studied of all the disciplines and there are no known experts with few adepts. Disciples of this discipline can predict future events but usually not more than a few minutes, astral project, use remote viewing or hearing, bi-locate. But this discipline does not allow for teleportation of any kind. The scope and accuracy of this discipline is not well studied and is commonly rejected as hocus pocus even among disciples of other diciplines.
 
+**Code of Thankar**
+
+**Oath**: I swear upon my sacred honor and before any Gods that I shall believe in to be true and faithful to the Code of Thankar and never intentionally violate its precepts. I will regard all Disciples of Thankar as my flesh and blood. I will upon request teach within my ability the knowledge of my Disciplines to any Disciple without charge. I will not without proper permission take on an apprentice who is not already a Disciple of Thankar. I shall keep this oath and be true to it until the very end of my existence.
+
+**Precept 1**. A Disciple shall not use their Disciplines for war of any kind for the State to which they owe allegiance or for any other State.
+
+**Precept 2**. Except for self defense or the defense of others a Disciple may not use their Disciplines to cause harm to others.
+
+**Precept 3**. No Disciple shall willfully disregard the Cod of Thankar nor tolerate and Disciple who does.
+
+**Precept 4**. A Disciple regardless of rank or status must use whatever force is necessary to stop another Disciple from willfully disregarding the Code of Thankar.
+
+**Precept 5**. A Disciple may not impose their will upon any other being without their consent. Except in extraordinary circumstances and must report same to the Master of the Order at the earliest convenience.
+
+**Precept 6**. A Disciple must obey any laws restricting their Disciplines that they are subject to.
+
+**Precept 7**. A Disciple may not use their Disciplines for greedy purposes or use them to violate the law of any jurisdiction they may be subject to.
+
+**Precept 8**. Willful disregard for the Code of Thankar shall be just cause to sever a Disciple from their Disciplines and their expulsion from the Order of Thankar.
+
+**Precept 9**. The Master of the Order shall have final disposition of all violations of the Code of Thankar.
