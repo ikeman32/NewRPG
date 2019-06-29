@@ -5,17 +5,25 @@
 **Fighting Skils**
 
 Martial Arts
+
 Armed Combat
+
 Unarmed Combat
+
 Combat Tactics
+
 Weapons, Melee
+
 Weapons, Projectile
+
 Weapons, Energy
 
 **Flight Skills**
 
 Stellar Navigation
+
 Stellar Pilot
+
 Atmospheric Pilot
 
 **Technical Skills**
