@@ -1,5 +1,7 @@
 The mental disciplines is the Tri Tosian term for psionics, while not specifically confined to the Tri Tosian species, they are the only known species wih a school dedicated to the mental disciplines. They are also the only known species that have a strict code of ethics for the use of certain disciplines known as the Code of Thankar named for the school's founder. While the code does cover all of the disciplines certain disciplines are considered more dangerous and thus have a stricter adherance to. Violation of the Code of Thankar could result in the severing of a disciple's connection to the mental disciplines altogether thus leaving them unable to perform even the most basic of mental feats. There are five basic mental disciplines within the mental disciplines.
 
+Students of this school are known as Disciples of Thankar. To get into this school one must be a Tri Tosian by blood or show some talent in one of the disciplines. Although non-Tri Tosian Disciples are rare they do exist and are required to take the vow of the Code of Thankar and be bound by it for life.
+
 **Kenetic**
 
 The Kenetic Discipline is the discipline of motion for novices this entails moving of simple light weight and solid objects, giving a person a shove, etc. As they grow more experienced the objects can get larger and heavier and more than one object can be affected. 
