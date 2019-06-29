@@ -27,7 +27,7 @@ At this point there are too many things to list here but here are a few:
 - Create and add Weapons
 - Create and add Armor
 - Create and add Equipment
-- Develop rules and guideliens
+- Develop rules and guide lines
 - etc.
 
 As you can see there is pretty much everything that needs to be done so if this RPG idea sounds interesting and you would like to contribute please by all means lend a helping hand.
