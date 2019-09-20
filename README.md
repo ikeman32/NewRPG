@@ -30,6 +30,7 @@ At this point there are too many things to list here but here are a few:
 - Develop rules and guide lines
 - etc.
 
+
 As you can see there is pretty much everything that needs to be done so if this RPG idea sounds interesting and you would like to contribute please by all means lend a helping hand.
 
 [Contents](https://github.com/ikeman32/NewRPG/blob/master/CoreRules/Contents.md)
